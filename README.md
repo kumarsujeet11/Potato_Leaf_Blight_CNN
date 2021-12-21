@@ -1,10 +1,22 @@
-Potato Disease Classification
-Install Python (Setup instructions)
-Install Python packages
-Download the data from kaggle.
-Only keep folders related to Potatoes.
-Run Jupyter Notebook in Browser.
-jupyter notebook
-Open training/potato-disease-training.ipynb in Jupyter Notebook.
-In cell #2, update the path to dataset.
-Run all the Cells one by one.
+
+## Potato Disease Classification
+## Documentation
+
+Set up for Python:
+
+-Install Python (https://wiki.python.org/moin/BeginnersGuide)
+
+
+
+-Install Python packages
+
+Training the Model:
+
+-Download the data from (https://www.kaggle.com/arjuntejaswi/plant-village)
+
+-Only keep folders related to Potatoes.
+
+-Run Jupyter Notebook in Browser.
+
+-Run all the Cells one by one.
+
